@@ -1,0 +1,38 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product A",
+        "description": "Description for Product A",
+        "price": 29.99
+      },
+      {
+        "id": 2,
+        "name": "Product B",
+        "description": "Description for Product B",
+        "price": 49.99
+      },
+      {
+        "id": 3,
+        "name": "Product C",
+        "description": "Description for Product C",
+        "price": 19.99
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Category 1"
+      },
+      {
+        "id": 2,
+        "name": "Category 2"
+      },
+      {
+        "id": 3,
+        "name": "Category 3"
+      }
+    ]
+  }
+  
