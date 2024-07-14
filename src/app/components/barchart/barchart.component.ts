@@ -1,8 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import Highcharts, { SeriesOptionsType } from 'highcharts';
 import { HighchartsChartModule } from 'highcharts-angular';
 import Accessibility from 'highcharts/modules/accessibility';
-import { HttpClient } from '@angular/common/http';
 Accessibility(Highcharts);
 
 @Component({

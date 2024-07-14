@@ -1,7 +1,8 @@
-<div class="chart" NgIf="!loading && chartOptions">
+<div class="chart">
     <highcharts-chart
     [Highcharts]="Highcharts"
     [constructorType]="chartConstructor"
     [options]="chartOptions"
+    [update]="updateFlag"
   ></highcharts-chart>
   </div>
